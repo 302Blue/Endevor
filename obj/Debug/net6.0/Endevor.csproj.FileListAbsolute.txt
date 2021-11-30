@@ -1,0 +1,15 @@
+C:\Users\bookw\OneDrive\Code\Training Arc\Endevor\bin\Debug\net6.0\Endevor.exe
+C:\Users\bookw\OneDrive\Code\Training Arc\Endevor\bin\Debug\net6.0\Endevor.deps.json
+C:\Users\bookw\OneDrive\Code\Training Arc\Endevor\bin\Debug\net6.0\Endevor.runtimeconfig.json
+C:\Users\bookw\OneDrive\Code\Training Arc\Endevor\bin\Debug\net6.0\Endevor.dll
+C:\Users\bookw\OneDrive\Code\Training Arc\Endevor\bin\Debug\net6.0\ref\Endevor.dll
+C:\Users\bookw\OneDrive\Code\Training Arc\Endevor\bin\Debug\net6.0\Endevor.pdb
+C:\Users\bookw\OneDrive\Code\Training Arc\Endevor\obj\Debug\net6.0\Endevor.csproj.AssemblyReference.cache
+C:\Users\bookw\OneDrive\Code\Training Arc\Endevor\obj\Debug\net6.0\Endevor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bookw\OneDrive\Code\Training Arc\Endevor\obj\Debug\net6.0\Endevor.AssemblyInfoInputs.cache
+C:\Users\bookw\OneDrive\Code\Training Arc\Endevor\obj\Debug\net6.0\Endevor.AssemblyInfo.cs
+C:\Users\bookw\OneDrive\Code\Training Arc\Endevor\obj\Debug\net6.0\Endevor.csproj.CoreCompileInputs.cache
+C:\Users\bookw\OneDrive\Code\Training Arc\Endevor\obj\Debug\net6.0\Endevor.dll
+C:\Users\bookw\OneDrive\Code\Training Arc\Endevor\obj\Debug\net6.0\ref\Endevor.dll
+C:\Users\bookw\OneDrive\Code\Training Arc\Endevor\obj\Debug\net6.0\Endevor.pdb
+C:\Users\bookw\OneDrive\Code\Training Arc\Endevor\obj\Debug\net6.0\Endevor.genruntimeconfig.cache
